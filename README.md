@@ -1,6 +1,6 @@
 ```
 git clone https://github.com/FajarSf/Pro
-cd brute
+cd Pro
 git pull
 python Run.pyc
 ```
